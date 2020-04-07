@@ -101,7 +101,7 @@ h1, h2, h3, h4, h5, h6 {
   background: #212431;
   color: #fff;
   line-height: 1;
-  padding: 8px 0;hero
+  padding: 8px 0;
   margin-right: 4px;
   border-radius: 50%;
   text-align: center;
@@ -211,8 +211,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("sinungadi.github.io/img/1998CAM_2020_02_06_09_42_46_FN.jpg
-") top center;
+  background: url("../img/hero-bg.jpg") top center;
   background-size: cover;
 }
 

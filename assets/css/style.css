@@ -15,7 +15,7 @@ body {
 
 a {
   color: #149ddd;
-}
+}f
 
 a:hover {
   color: #37b3ed;
@@ -211,7 +211,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("sinungadi.github.io/img/Background.jpg") top center;
+  background: url("https://raw.githubusercontent.com/sinungadi/sinungadi.github.io/master/img/Background.jpg") top center;
   background-size: cover;
 }
 
